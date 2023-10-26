@@ -1,0 +1,12 @@
+.Banner{
+    background-color: darkgreen;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   font-size: x-large;
+   font-weight: bold;
+    color: black;
+
+}
